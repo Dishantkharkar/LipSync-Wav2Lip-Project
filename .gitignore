@@ -10,6 +10,7 @@ __pycache__/
 output10.wav
 Video.mp4
 wav2lip_gan.pth
+s3fd-619a316812.pth
 
 # Distribution / packaging
 .Python
