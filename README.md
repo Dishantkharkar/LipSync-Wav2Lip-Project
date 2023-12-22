@@ -44,7 +44,13 @@ Example using `newscript.txt` file:
 
 ![Example](https://github.com/Dishantkharkar/LipSync-Wav2Lip-Project/assets/130529528/c9142f3f-96a2-4edb-8b58-c59cf1398224)
 
-The result will be stored in the `Result` folder with the name `result_audio`.
+
+The result will be stored in the `Result` folder with the name `result_audio`. 
+![image](https://github.com/Dishantkharkar/LipSync-Wav2Lip-Project/assets/130529528/e8a11079-73a3-44fd-9008-5e98ae0341ce)
+
+you got like this :![image](https://github.com/Dishantkharkar/LipSync-Wav2Lip-Project/assets/130529528/fd8721d6-3b41-4b35-9b09-68c14d35adfb)
+
+
 
 ### **Evaluation**
 
