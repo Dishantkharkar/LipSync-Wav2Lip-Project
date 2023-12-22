@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# extra 
+output10.wav
+Video.mp4
+wav2lip_gan.pth
+
 # Distribution / packaging
 .Python
 build/
