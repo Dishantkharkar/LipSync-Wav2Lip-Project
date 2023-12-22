@@ -5,4 +5,3 @@ torch==1.13.1
 torchvision==0.14.1 
 tqdm==4.65.4 
 numba==0.56.4
-
