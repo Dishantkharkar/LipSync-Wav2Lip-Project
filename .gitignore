@@ -11,6 +11,7 @@ output10.wav
 Video.mp4
 wav2lip_gan.pth
 s3fd-619a316812.pth
+result_voice.mp4
 
 # Distribution / packaging
 .Python
